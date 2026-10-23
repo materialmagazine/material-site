@@ -1,0 +1,6 @@
+1. Sustituye el archivo logo.svg por tu logotipo SVG real (nombre exacto: logo.svg).
+2. Sube index.html y logo.svg a la raíz del repositorio público en GitHub.
+3. En Settings > Pages: Deploy from a branch > main > /(root) > Save.
+4. En Settings > Pages > Custom domain indica tu dominio, luego guarda.
+5. En cdmon crea los A del dominio raíz y el CNAME www indicados en la respuesta.
+6. Cuando GitHub habilite la opción, activa Enforce HTTPS.
